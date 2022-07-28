@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite pruebas de regresión" verbose="1" >
+    <test name="Casos de prueba Spotify" >
+        <classes>
+            <class name="tests.CP001_Login_Fallido"/>
+            <class name="tests.CP002_Login_CorreoErroneo" />
+            <class name="tests.CP003_Login_Correcto" />
+            <class name="tests.CP004_Registrarte" />
+            <class name="tests.CP005_Correo_Erroneo" />
+            <class name="tests.CP006_Correo_Correcto" />
+            <class name="tests.CP007_Confirmar_Correo_Correcto" />
+            <class name="tests.CP008_Confirmar_Correo_Incorrecto" />
+        </classes>
+    </test>
+</suite>
