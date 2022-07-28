@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T22:46:45Z" name="Suite pruebas de regresión" finished-at="2022-07-21T22:51:10Z" duration-ms="264891">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T22:46:45Z" name="Casos de prueba Spotify" finished-at="2022-07-21T22:51:10Z" duration-ms="264891">
+      <class name="tests.CP003_Login_Correcto">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP003_Login_Correcto@cc43f62]" started-at="2022-07-21T22:47:42Z" name="preTests" finished-at="2022-07-21T22:47:46Z" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP003_Login_Correcto()[pri:0, instance:tests.CP003_Login_Correcto@cc43f62]" started-at="2022-07-21T22:47:46Z" name="CP003_Login_Correcto" finished-at="2022-07-21T22:47:54Z" duration-ms="7958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003_Login_Correcto -->
+      </class> <!-- tests.CP003_Login_Correcto -->
+      <class name="tests.CP008_Confirmar_Correo_Incorrecto">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP008_Confirmar_Correo_Incorrecto@16eb3ea3]" started-at="2022-07-21T22:50:19Z" name="preTests" finished-at="2022-07-21T22:50:28Z" duration-ms="9470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP008_Confirmar_Correo_Incorrecto()[pri:0, instance:tests.CP008_Confirmar_Correo_Incorrecto@16eb3ea3]" started-at="2022-07-21T22:50:28Z" name="CP008_Confirmar_Correo_Incorrecto" finished-at="2022-07-21T22:51:05Z" duration-ms="37309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP008_Confirmar_Correo_Incorrecto -->
+      </class> <!-- tests.CP008_Confirmar_Correo_Incorrecto -->
+      <class name="tests.CP007_Confirmar_Correo_Correcto">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP007_Confirmar_Correo_Correcto@413d1baf]" started-at="2022-07-21T22:49:43Z" name="preTests" finished-at="2022-07-21T22:49:52Z" duration-ms="8656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP007_Confirmar_Correo_Correcto()[pri:0, instance:tests.CP007_Confirmar_Correo_Correcto@413d1baf]" started-at="2022-07-21T22:49:52Z" name="CP007_Confirmar_Correo_Correcto" finished-at="2022-07-21T22:50:19Z" duration-ms="26421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP007_Confirmar_Correo_Correcto -->
+      </class> <!-- tests.CP007_Confirmar_Correo_Correcto -->
+      <class name="tests.CP006_Correo_Correcto">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP006_Correo_Correcto@6caf0677]" started-at="2022-07-21T22:49:08Z" name="preTests" finished-at="2022-07-21T22:49:17Z" duration-ms="9331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP006_Correo_Correcto()[pri:0, instance:tests.CP006_Correo_Correcto@6caf0677]" started-at="2022-07-21T22:49:17Z" name="CP006_Correo_Correcto" finished-at="2022-07-21T22:49:43Z" duration-ms="26048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP006_Correo_Correcto -->
+      </class> <!-- tests.CP006_Correo_Correcto -->
+      <class name="tests.CP001_Login_Fallido">
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP001_Login_Fallido@5e2c3d18]" started-at="2022-07-21T22:46:45Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:47Z" duration-ms="2470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP002_Login_CorreoErroneo@2cb4893b]" started-at="2022-07-21T22:46:47Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:49Z" duration-ms="1987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP003_Login_Correcto@cc43f62]" started-at="2022-07-21T22:46:49Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:51Z" duration-ms="2000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP004_Registrarte@5b218417]" started-at="2022-07-21T22:46:51Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:53Z" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP005_Correo_Erroneo@645aa696]" started-at="2022-07-21T22:46:53Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:56Z" duration-ms="2332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP006_Correo_Correcto@6caf0677]" started-at="2022-07-21T22:46:56Z" name="preparacionEjecucion" finished-at="2022-07-21T22:46:58Z" duration-ms="2548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP007_Confirmar_Correo_Correcto@413d1baf]" started-at="2022-07-21T22:46:58Z" name="preparacionEjecucion" finished-at="2022-07-21T22:47:02Z" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.CP008_Confirmar_Correo_Incorrecto@16eb3ea3]" started-at="2022-07-21T22:47:02Z" name="preparacionEjecucion" finished-at="2022-07-21T22:47:06Z" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP001_Login_Fallido@5e2c3d18]" started-at="2022-07-21T22:47:06Z" name="preTests" finished-at="2022-07-21T22:47:17Z" duration-ms="11202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP001_Login_Fallido()[pri:0, instance:tests.CP001_Login_Fallido@5e2c3d18]" started-at="2022-07-21T22:47:17Z" name="CP001_Login_Fallido" finished-at="2022-07-21T22:47:25Z" duration-ms="7711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Login_Fallido -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP001_Login_Fallido@5e2c3d18]" started-at="2022-07-21T22:51:05Z" name="posEjecucion" finished-at="2022-07-21T22:51:06Z" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP002_Login_CorreoErroneo@2cb4893b]" started-at="2022-07-21T22:51:06Z" name="posEjecucion" finished-at="2022-07-21T22:51:07Z" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP003_Login_Correcto@cc43f62]" started-at="2022-07-21T22:51:07Z" name="posEjecucion" finished-at="2022-07-21T22:51:07Z" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP004_Registrarte@5b218417]" started-at="2022-07-21T22:51:07Z" name="posEjecucion" finished-at="2022-07-21T22:51:08Z" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP006_Correo_Correcto@6caf0677]" started-at="2022-07-21T22:51:08Z" name="posEjecucion" finished-at="2022-07-21T22:51:09Z" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP007_Confirmar_Correo_Correcto@413d1baf]" started-at="2022-07-21T22:51:09Z" name="posEjecucion" finished-at="2022-07-21T22:51:09Z" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP008_Confirmar_Correo_Incorrecto@16eb3ea3]" started-at="2022-07-21T22:51:09Z" name="posEjecucion" finished-at="2022-07-21T22:51:10Z" duration-ms="670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+      </class> <!-- tests.CP001_Login_Fallido -->
+      <class name="tests.CP005_Correo_Erroneo">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP005_Correo_Erroneo@645aa696]" started-at="2022-07-21T22:48:32Z" name="preTests" finished-at="2022-07-21T22:48:41Z" duration-ms="8684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP005_CorreoErroneo()[pri:0, instance:tests.CP005_Correo_Erroneo@645aa696]" started-at="2022-07-21T22:48:41Z" name="CP005_CorreoErroneo" finished-at="2022-07-21T22:49:07Z" duration-ms="26379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP005_CorreoErroneo -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.CP005_Correo_Erroneo@645aa696]" started-at="2022-07-21T22:49:07Z" name="posEjecucion" finished-at="2022-07-21T22:49:08Z" duration-ms="1196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+      </class> <!-- tests.CP005_Correo_Erroneo -->
+      <class name="tests.CP004_Registrarte">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP004_Registrarte@5b218417]" started-at="2022-07-21T22:47:54Z" name="preTests" finished-at="2022-07-21T22:48:05Z" duration-ms="11709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP004_Registrarte()[pri:0, instance:tests.CP004_Registrarte@5b218417]" started-at="2022-07-21T22:48:05Z" name="CP004_Registrarte" finished-at="2022-07-21T22:48:32Z" duration-ms="26429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP004_Registrarte -->
+      </class> <!-- tests.CP004_Registrarte -->
+      <class name="tests.CP002_Login_CorreoErroneo">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.CP002_Login_CorreoErroneo@2cb4893b]" started-at="2022-07-21T22:47:25Z" name="preTests" finished-at="2022-07-21T22:47:33Z" duration-ms="7721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP002_Login_CorreoErroneo()[pri:0, instance:tests.CP002_Login_CorreoErroneo@2cb4893b]" started-at="2022-07-21T22:47:33Z" name="CP002_Login_CorreoErroneo" finished-at="2022-07-21T22:47:42Z" duration-ms="8923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002_Login_CorreoErroneo -->
+      </class> <!-- tests.CP002_Login_CorreoErroneo -->
+    </test> <!-- Casos de prueba Spotify -->
+  </suite> <!-- Suite pruebas de regresión -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite pruebas de regresión]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Casos de prueba Spotify(failed)" verbose="0">
+    <classes>
+      <class name="tests.CP005_Correo_Erroneo">
+        <methods>
+          <include name="CP005_CorreoErroneo"/>
+          <include name="preparacionEjecucion"/>
+          <include name="posEjecucion"/>
+          <include name="preTests"/>
+        </methods>
+      </class> <!-- tests.CP005_Correo_Erroneo -->
+    </classes>
+  </test> <!-- Casos de prueba Spotify(failed) -->
+</suite> <!-- Failed suite [Suite pruebas de regresión] -->
