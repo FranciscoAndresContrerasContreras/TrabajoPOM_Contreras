@@ -1,0 +1,23 @@
+[33mcommit bcc21dae4a0cda7e7002c5b15c74a54eaef709d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Francisco <francisco.contreras@externos.bci.cl>
+Date:   Mon Jul 25 19:41:02 2022 -0400
+
+    Se agrega al repositorio la carpeta target/
+
+[33mcommit 54af45968bb1e61631e928de1c076b068a1a2bb7[m
+Author: Francisco <francisco.contreras@externos.bci.cl>
+Date:   Mon Jul 25 19:40:04 2022 -0400
+
+    Se agrega al repositorio la carpeta src/
+
+[33mcommit bc03de8d9e7caf40f59097c2347685dffeeda23f[m
+Author: Francisco <francisco.contreras@externos.bci.cl>
+Date:   Mon Jul 25 19:38:33 2022 -0400
+
+    Se agrega al repositorio el archivo pom.xml
+
+[33mcommit b82a8d29b276cc2f6e7daa09fd6d5bebee5cc408[m
+Author: Francisco <francisco.contreras@externos.bci.cl>
+Date:   Mon Jul 25 19:37:20 2022 -0400
+
+    Se agrega al repositorio la carpeta .idea
